@@ -1,2 +1,2 @@
 # Local-Event-Explorer
-Please visit localeventexplorer.com
+Please visit [Local Event Explorer](localeventexplorer.com)
